@@ -1,0 +1,6 @@
+anthropic
+streamlit
+python-dotenv
+requests
+python-docx
+pytest
