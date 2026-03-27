@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cybersecurity-basics",
+    "title": "Cybersecurity Essentials for Nonprofits",
+    "category": "security",
+    "keywords": ["security", "cybersecurity", "mfa", "phishing", "protection", "threats"],
+    "budget_tier": "all",
+    "content": "Every nonprofit needs these security foundations regardless of budget: (1) Multi-Factor Authentication (MFA) on ALL accounts — this single step prevents 99% of credential-based attacks. (2) Security awareness training — KnowBe4 offers free tools for small nonprofits, or use free phishing simulations. (3) Endpoint protection — Microsoft Defender is included with M365 Business Premium. (4) Email security — enable anti-phishing policies in M365 or Google Workspace. (5) Backup strategy — follow the 3-2-1 rule (3 copies, 2 media types, 1 offsite). (6) Incident response plan — document who to call and what to do when (not if) a breach occurs. The CIS Controls v8 Implementation Group 1 (IG1) provides a practical framework of 56 safeguards for organizations with limited IT resources."
+  },
+  {
+    "id": "cis-controls",
+    "title": "CIS Controls Framework for Nonprofits",
+    "category": "security",
+    "keywords": ["cis", "controls", "framework", "security", "compliance", "safeguards"],
+    "budget_tier": "all",
+    "content": "The CIS (Center for Internet Security) Controls v8 is the most practical cybersecurity framework for nonprofits. It organizes 153 safeguards into three Implementation Groups: IG1 (56 safeguards, 'essential cyber hygiene' — right for most nonprofits), IG2 (additional safeguards for orgs with moderate IT resources), and IG3 (full framework for large enterprises). Key IG1 controls: inventory of hardware/software assets, data protection, secure configuration, access control management, continuous vulnerability management, audit log management, email/web browser protection, malware defenses, data recovery, security awareness training, and incident response. Free resources at cisecurity.org. Many cyber insurance providers now reference CIS Controls in their requirements."
+  },
+  {
+    "id": "data-privacy",
+    "title": "Data Privacy and Compliance for Nonprofits",
+    "category": "security",
+    "keywords": ["privacy", "data", "compliance", "gdpr", "hipaa", "pii", "regulations"],
+    "budget_tier": "all",
+    "content": "Nonprofits handle sensitive data (donor PII, client records, employee information) and must take privacy seriously. Key areas: (1) Data inventory — know what personal data you collect, where it's stored, who can access it, and how long you keep it. (2) State privacy laws — many US states now have privacy laws (California CCPA, Virginia VCDPA, Colorado CPA, etc.). If you have constituents in these states, you may be subject to their requirements. (3) HIPAA — if you handle any health information (health-focused nonprofits, EAPs), HIPAA compliance is mandatory. (4) PCI DSS — if you process credit card donations, PCI compliance applies. (5) Data minimization — only collect what you need, only keep it as long as necessary. (6) Vendor agreements — ensure data processing agreements are in place with all vendors handling personal data. (7) Breach notification — have a plan for notifying affected individuals and regulators if a breach occurs."
+  },
+  {
+    "id": "incident-response",
+    "title": "Incident Response Planning for Nonprofits",
+    "category": "security",
+    "keywords": ["incident", "response", "breach", "ransomware", "recovery", "plan"],
+    "budget_tier": "all",
+    "content": "Every nonprofit needs an incident response plan before a breach happens. Key components: (1) Preparation — designate an incident response team (even if it's just 2-3 people), establish communication channels, document vendor contacts (MSP, cyber insurance, legal). (2) Detection — know your indicators of compromise: unusual login locations, mass email sends, encrypted files, ransom notes, user reports of phishing. (3) Containment — isolate affected systems immediately, disable compromised accounts, preserve evidence (don't wipe systems yet). (4) Eradication — work with IT/MSP to remove the threat, patch the vulnerability, reset all potentially compromised credentials. (5) Recovery — restore from clean backups, verify system integrity, monitor for reinfection. (6) Lessons learned — document what happened, what worked, what didn't, and update the plan. CRITICAL: Have your cyber insurance policy number and claims phone number printed and accessible offline. If ransomware hits, your email and files may be inaccessible. Test your plan annually with a tabletop exercise."
+  },
+  {
+    "id": "data-backup",
+    "title": "Data Backup and Recovery for Nonprofits",
+    "category": "security",
+    "keywords": ["backup", "recovery", "disaster", "data loss", "ransomware", "business continuity"],
+    "budget_tier": "all",
+    "content": "Data backup is critical protection against ransomware, hardware failure, and human error. Follow the 3-2-1 rule: 3 copies of data, on 2 different media types, with 1 copy offsite/cloud. For M365 environments: Microsoft's native retention is limited — consider third-party backup solutions like Veeam Backup for M365, Acronis, or Backupify. For Google Workspace: Google Vault provides archiving but isn't true backup — consider Spanning or AFI Backup. Test your backups quarterly — a backup you've never tested is a backup you can't trust. Document your Recovery Time Objective (how fast you need systems back) and Recovery Point Objective (how much data loss is acceptable). Most nonprofits should target RTO of 24 hours and RPO of 4 hours for critical systems."
+  },
+  {
+    "id": "cyber-insurance",
+    "title": "Cyber Insurance for Nonprofits",
+    "category": "security",
+    "keywords": ["insurance", "cyber insurance", "liability", "coverage", "risk transfer"],
+    "budget_tier": "all",
+    "content": "Cyber insurance is increasingly essential for nonprofits handling donor data, client records, or financial information. Key coverage areas: (1) First-party coverage — covers your own losses: data recovery costs, business interruption, ransomware payments (controversial but sometimes necessary), notification costs. (2) Third-party coverage — covers claims from others: lawsuits from affected individuals, regulatory fines, credit monitoring for breach victims. COST: Typically $1,500-5,000/year for small nonprofits, based on revenue, data volume, and security posture. REQUIREMENTS: Most insurers now require MFA, endpoint protection, backup verification, and security awareness training. Some require specific controls from CIS or NIST frameworks. APPLICATION TIPS: Be honest on your application — misrepresentation can void your policy. Document your security practices before applying. Many brokers specialize in nonprofit insurance (Lockton, Gallagher, USI). IMPORTANT: Read your policy carefully — understand exclusions, waiting periods, and notification requirements. Have the claims number accessible offline (printed, not just in email)."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ai-adoption-compas",
+    "title": "AI Adoption for Nonprofits — The COMPAS Framework",
+    "category": "ai",
+    "keywords": ["ai", "artificial intelligence", "chatgpt", "claude", "adoption", "compas", "strategy"],
+    "budget_tier": "all",
+    "content": "Nonprofits should approach AI adoption thoughtfully using the COMPAS framework: Context (assess organizational readiness, culture, and current capabilities), Objective (define clear, mission-aligned goals for AI use — what problem are you actually solving?), Method (select appropriate tools — ChatGPT, Claude, Copilot, or domain-specific solutions), Performance (implement with proper training and change management), Assessment (measure what matters — did it actually improve outcomes?), and Sharing (document and share learnings with peers). Start with low-risk, high-value use cases: drafting communications, summarizing meeting notes, data analysis, grant writing assistance. Always establish an AI acceptable use policy before broad adoption. Key principle: AI should augment human capability, not replace human judgment, especially for decisions affecting vulnerable populations."
+  },
+  {
+    "id": "ai-policy",
+    "title": "Developing an AI Acceptable Use Policy",
+    "category": "ai",
+    "keywords": ["ai", "policy", "governance", "acceptable use", "guidelines", "responsible ai"],
+    "budget_tier": "all",
+    "content": "Every nonprofit using AI tools needs an acceptable use policy. Key components: (1) Approved tools — which AI platforms are sanctioned. (2) Data classification — what data can and cannot be entered into AI tools (never enter PII, client data, financial details into consumer AI tools). (3) Output review — all AI-generated content must be reviewed by a human before external use. (4) Disclosure — when and how to disclose AI assistance. (5) Training requirements. (6) Bias awareness — understand AI limitations, especially when serving diverse or vulnerable populations. (7) Vendor assessment — evaluate AI vendors for data privacy, security, and terms of service. Review and update the policy at least annually."
+  },
+  {
+    "id": "ai-platforms-comparison",
+    "title": "Comparing AI Platforms: ChatGPT, Copilot, Gemini, Claude",
+    "category": "ai",
+    "keywords": ["chatgpt", "copilot", "gemini", "claude", "openai", "microsoft", "google", "anthropic", "ai tools", "comparison"],
+    "budget_tier": "all",
+    "content": "Four major AI platforms nonprofits should evaluate: (1) ChatGPT (OpenAI) — most widely adopted, strong general-purpose assistant, free tier available, Team at $25/user/month. Nonprofit pricing via TechSoup. (2) Microsoft Copilot — integrated into M365 apps. Lowest-friction for M365 orgs. $30/user/month on top of M365 license. (3) Google Gemini — integrated into Google Workspace. Best for Google Workspace orgs. (4) Claude (Anthropic) — strong for long document analysis, nuanced writing, safety-conscious applications. Pro at $20/month. RECOMMENDATION: Start with the platform that integrates with your existing tools."
+  },
+  {
+    "id": "ai-training-staff",
+    "title": "AI Training and Literacy for Nonprofit Staff",
+    "category": "ai",
+    "keywords": ["ai training", "staff training", "ai literacy", "workforce", "upskilling", "learning"],
+    "budget_tier": "all",
+    "content": "Staff AI training is essential before broad adoption. Approach: (1) Start with AI literacy — help staff understand what AI can and can't do. Use MTM's COMPAS framework. (2) Hands-on workshops — have staff bring real work tasks and practice. (3) Resources: TechSoup's Human-Centered AI course, NTEN's AI resources, Anthropic's prompt engineering guide, Microsoft's AI for Nonprofits learning paths. (4) Create internal champions — train 2-3 enthusiastic staff first, then have them train peers. (5) Schedule quarterly check-ins to review what's working."
+  },
+  {
+    "id": "ai-policy-template",
+    "title": "AI Acceptable Use Policy — Practical Template",
+    "category": "ai",
+    "keywords": ["ai policy", "acceptable use", "template", "governance", "guidelines", "policy template"],
+    "budget_tier": "all",
+    "content": "Practical AI policy framework: SECTION 1 — Approved Tools: List sanctioned AI platforms. SECTION 2 — Data Rules: NEVER enter client/beneficiary PII, donor financial details, employee HR records, PHI, passwords, confidential board materials. SAFE to enter: general questions, publicly available info, anonymized data, draft content. SECTION 3 — Human Review: All AI content reviewed before external use. SECTION 4 — Disclosure: Define when AI use must be disclosed (grants, external comms, board reports). SECTION 5 — Bias and Equity: Never use AI as sole decision-maker for program eligibility, hiring, or resource allocation. SECTION 6 — Review every 6 months."
+  },
+  {
+    "id": "ai-quick-wins",
+    "title": "AI Quick Wins — Low-Risk, High-Value Use Cases",
+    "category": "ai",
+    "keywords": ["ai use cases", "quick wins", "getting started", "practical ai", "low risk", "first steps"],
+    "budget_tier": "all",
+    "content": "Start AI adoption with low-risk, high-value use cases: (1) Meeting summaries and action items. (2) First drafts of newsletters, social media, emails. (3) Grant research — identify funders, summarize requirements. (4) Data analysis — anonymized program data for trends. (5) Translation and accessibility. (6) Board preparation — summarize reports into briefings. (7) IT help desk responses. (8) Proofreading and editing. KEY PRINCIPLE: Start where the cost of an AI mistake is low (internal docs, first drafts) rather than high-stakes outputs (final grant submissions, legal documents)."
+  },
+  {
+    "id": "ai-risks-nonprofits",
+    "title": "AI Risks and Safety Considerations for Nonprofits",
+    "category": "ai",
+    "keywords": ["ai risks", "safety", "bias", "hallucination", "data privacy", "ai concerns", "responsible ai"],
+    "budget_tier": "all",
+    "content": "Nonprofits face unique AI risks: (1) Data privacy — many serve vulnerable populations. Use enterprise/team plans, never consumer free tiers for sensitive work. (2) Hallucination — AI can state incorrect information confidently. Always verify facts. (3) Bias — AI reflects training data biases. Be cautious for decisions affecting people. (4) Vendor lock-in — avoid building critical workflows around a single vendor. (5) Staff anxiety — address proactively: AI augments, doesn't replace. (6) Shadow AI — staff may already be using unapproved tools. (7) Cost creep — track and evaluate quarterly."
+  },
+  {
+    "id": "ai-grant-writing",
+    "title": "Using AI for Grant Writing and Fundraising",
+    "category": "ai",
+    "keywords": ["grant writing", "fundraising", "grants", "ai writing", "development", "proposals"],
+    "budget_tier": "all",
+    "content": "AI can accelerate grant writing and fundraising: GRANT WRITING: Draft outlines and sections, align language to funder priorities. ALWAYS disclose AI use if required. Never let AI fabricate statistics. FUNDRAISING: Draft personalized thank-you letters, appeal variations by segment, impact stories from program outcomes. TOOLS: ChatGPT and Claude are strong for writing. Instrumentl and Grantable are AI-specific grant tools. KEY PRINCIPLE: AI produces first drafts that your team refines with real stories, data, and authentic voice."
+  },
+  {
+    "id": "ai-data-privacy-tiers",
+    "title": "AI Tool Data Privacy — Consumer vs. Business vs. Enterprise",
+    "category": "ai",
+    "keywords": ["ai privacy", "data privacy", "chatgpt team", "enterprise", "data training", "tiers"],
+    "budget_tier": "all",
+    "content": "Understanding AI data privacy tiers: FREE/CONSUMER: Data may be used for model training. Personal use only. PAID INDIVIDUAL: Usually same policy as free. Paying doesn't guarantee privacy. TEAM/BUSINESS (ChatGPT Team, Workspace Gemini, Copilot for M365): Data NOT used for training. Minimum tier for organizational use. ENTERPRISE: Strongest guarantees, SOC 2, custom retention. RECOMMENDATION: Team/Business tier is the sweet spot — private data, reasonable cost, admin controls. Budget $25-30/user/month for core AI users."
+  },
+  {
+    "id": "ai-shadow-ai",
+    "title": "Shadow AI — Staff Using AI Without Organizational Knowledge",
+    "category": "ai",
+    "keywords": ["shadow ai", "unauthorized ai", "staff ai use", "governance"],
+    "budget_tier": "all",
+    "content": "Shadow AI is when staff use AI tools without approval — happening at most nonprofits. 50-70% of workers are already using AI, often without telling their employer. Address it: (1) Don't ban AI — prohibition drives it underground. (2) Acknowledge it's happening and create safe discussion. (3) Develop an acceptable use policy. (4) Provide approved tools. (5) Train staff on what's safe and what's not. COMPAS starts with Context precisely because you need to know what's already happening."
+  },
+  {
+    "id": "ai-board-governance",
+    "title": "AI Governance for Nonprofit Boards",
+    "category": "ai",
+    "keywords": ["board", "governance", "trustees", "oversight", "fiduciary"],
+    "budget_tier": "all",
+    "content": "Board responsibilities for AI: (1) Ensure an AI policy exists. (2) Understand how AI is used, especially for decisions affecting clients. (3) Assess AI risks in risk management framework. (4) Ensure appropriate budget. (5) Ask management to report on AI adoption. WHAT BOARDS SHOULD ASK: 'Do we have an AI policy?' 'What data enters AI tools?' 'Are we compliant with funder disclosure?' 'What training have staff received?' 'How are we measuring AI impact on mission?'"
+  },
+  {
+    "id": "ai-copilot-detail",
+    "title": "Microsoft Copilot for Nonprofit M365 Users",
+    "category": "ai",
+    "keywords": ["copilot", "microsoft", "m365", "word", "excel", "outlook", "teams"],
+    "budget_tier": "all",
+    "content": "If your nonprofit uses M365, Copilot is the most integrated AI option. Works inside M365 apps — draft emails in Outlook, summarize Teams meetings, create presentations, analyze Excel data. $30/user/month on top of M365 license. Start with 5-10 power users. Your M365 data needs to be well-organized. Copilot respects existing permissions. Requires M365 Business Standard or higher (free Basic doesn't support it)."
+  },
+  {
+    "id": "ai-chatgpt-nonprofit",
+    "title": "ChatGPT for Nonprofits — Plans and Best Practices",
+    "category": "ai",
+    "keywords": ["chatgpt", "openai", "gpt", "nonprofit chatgpt", "chatgpt team"],
+    "budget_tier": "all",
+    "content": "ChatGPT plans: Free (limited, data used for training), Plus ($20/month, consumer-grade), Team ($25/user/month, data NOT used for training — minimum for org use), Enterprise (custom, SOC 2). Nonprofit discounts via TechSoup. Best practices: Use Team or Enterprise for org work. Create Custom GPTs for repeatable tasks. Train staff on effective prompting. Limitations: training data cutoff, hallucination risk, no access to internal docs unless uploaded."
+  }
+]
